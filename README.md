@@ -1,10 +1,10 @@
-# 🌸 AI Data Storyteller – Smart Analytics Dashboard
+# AI Data Storyteller – Smart Analytics Dashboard
 
 An interactive Streamlit application for automated data analysis, visualization, and AI-driven insights.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 AI Data Storyteller is a Smart Analytics Dashboard built using Streamlit that allows users to upload CSV datasets and automatically perform exploratory data analysis (EDA), visualizations, outlier detection, machine learning predictions, and AI-generated insights.
 
@@ -12,7 +12,7 @@ This project is designed for **data analysts, students, and data science beginne
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload CSV datasets
 - Exploratory Data Analysis (EDA)
@@ -23,7 +23,7 @@ This project is designed for **data analysts, students, and data science beginne
 - Professional PDF report export
 
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ```bash
 pip install -r requirements.txt
@@ -42,7 +42,7 @@ streamlit run app.py
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - Business dataset analysis  
 - Exploratory data analysis for ML projects  
@@ -52,7 +52,7 @@ streamlit run app.py
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Deploy on Streamlit Cloud  
 - Support Excel and database uploads  
